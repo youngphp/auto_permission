@@ -1,7 +1,5 @@
 <?php if ( ! defined('BASEPATH')) exit('No direct script access allowed');
 
-require_once APPPATH.'core/ERP_Controller.php';
-
 /**
 *@permission 首页
 */
